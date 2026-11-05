@@ -1,0 +1,7 @@
+gymnasium==1.4.0
+matplotlib==3.11.2
+numpy==2.5.3
+scipy==1.18.1
+torch==2.15.0
+sb3_contrib==2.9.2
+stable_baselines3==2.9.2
