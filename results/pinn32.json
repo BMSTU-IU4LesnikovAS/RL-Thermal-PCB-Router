@@ -1,0 +1,1 @@
+{"n_data": 1616, "n_val": 404, "n_physics": 512, "n_boundary": 128, "epochs": 6000, "lambda_phy": 0.01, "val_rmse_K": 6.3066087663173676}
